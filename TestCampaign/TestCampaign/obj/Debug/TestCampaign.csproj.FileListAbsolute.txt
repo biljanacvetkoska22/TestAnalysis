@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\TestCampaign\TestCampaign\bin\Debug\TestCampaign.exe.config
+C:\Users\User\source\repos\TestCampaign\TestCampaign\bin\Debug\TestCampaign.exe
+C:\Users\User\source\repos\TestCampaign\TestCampaign\bin\Debug\TestCampaign.pdb
+C:\Users\User\source\repos\TestCampaign\TestCampaign\obj\Debug\TestCampaign.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TestCampaign\TestCampaign\obj\Debug\TestCampaign.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TestCampaign\TestCampaign\obj\Debug\TestCampaign.exe
+C:\Users\User\source\repos\TestCampaign\TestCampaign\obj\Debug\TestCampaign.pdb
